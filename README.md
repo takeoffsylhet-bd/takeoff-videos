@@ -23,3 +23,6 @@ Videos for the Take Off International YouTube channel (Mon / Wed / Fri, 4:00 PM 
 | 2026-11-02 Mon | Short | অসাধু এজেন্ট ও দালাল চেনার ৫টি লক্ষণ | videos/2026-11-02_short_asadhu-agent-dalal.mp4 |
 | 2026-11-04 Wed | Video | গ্রীস ওয়ার্ক ভিসা ও রেসিডেন্সি: পুরো প্রসেস | videos/2026-11-04_video_greece-work-visa.mp4 |
 | 2026-11-06 Fri | Short | ভিসার আগে ৫টি কাগজ যাচাই করুন | videos/2026-11-06_short_documents-check.mp4 |
+| 2026-11-09 Mon | Short | ভুয়া জব অফার চেনার ৫টি লক্ষণ | videos/2026-11-09_short_fake-job-offer.mp4 |
+| 2026-11-11 Wed | Video | রোমানিয়া ওয়ার্ক ভিসা ২০২৬: নতুন অনলাইন নিয়ম ও প্রসেস | videos/2026-11-11_video_romania-work-visa.mp4 |
+| 2026-11-13 Fri | Short | ভিসার পর BMET ছাড়পত্র: ৫টি ধাপ | videos/2026-11-13_short_bmet-clearance.mp4 |
