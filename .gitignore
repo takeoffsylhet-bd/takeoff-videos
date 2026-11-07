@@ -1,0 +1,4 @@
+tools/*.wav
+tools/*/
+!tools/projects/
+!tools/fonts/
